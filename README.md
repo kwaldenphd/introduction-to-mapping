@@ -1,6 +1,6 @@
 # Introduction to Mapping
 
-<p align="center"><a href="https://github.com/kwaldenphd/introduction-to-mapping/blob/master/media/Gall-Peters-Projection.mp4"><img class="wp-image-570" src="https://github.com/kwaldenphd/introduction-to-mapping/blob/master/media/West_Wing_Map_Screenshot.jpg" alt="" /></a></p> 
+<p align="center"><a href="https://youtu.be/vVX-PrBRtTY"><img class="wp-image-570" src="https://github.com/kwaldenphd/introduction-to-mapping/blob/master/media/West_Wing_Map_Screenshot.jpg" alt="" /></a></p> 
 
 Background reading:
 
